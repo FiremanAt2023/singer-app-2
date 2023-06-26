@@ -1,0 +1,29 @@
+{
+  "singers": [
+    {
+      "id": 1,
+      "name": "陈奕迅",
+      "nationality": "中国"
+    },
+    {
+      "name": "蓝桉",
+      "nationality": "中国",
+      "id": 2
+    },
+    {
+      "name": "Jimmy",
+      "nationality": "English",
+      "id": 3
+    },
+    {
+      "name": "IU",
+      "nationality": "韩国",
+      "id": 4
+    },
+    {
+      "name": "李荣浩",
+      "nationality": "中国",
+      "id": 5
+    }
+  ]
+}
