@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import "../../mock/Mock";
 import api from "../../api/http";
-import SongTable from "../../component/SongTable";
+import SongTable from "../../components/SongTable";
 
 export default function Songs() {
   const [data, setData] = useState([]);

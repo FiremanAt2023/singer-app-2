@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import api from "../../api/http";
 import { Button, Form, Input, Modal, Popconfirm, Space, Table } from "antd";
-import SingerForm from "../../component/SingerForm";
+import SingerForm from "../../components/SingerForm";
 
 function Singers() {
   const [singers, setSingers] = useState([]);
